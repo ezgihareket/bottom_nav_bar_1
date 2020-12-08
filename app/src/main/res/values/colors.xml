@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="homeFragment">#5B37B7</color>
+    <color name="likeFragment">#C9379D</color>
+    <color name="searchFragment">#E6A919</color>
+    <color name="profileFragment">#1194AA</color>
+</resources>
